@@ -65,7 +65,7 @@ drive.mount('/content/drive')
 **Requirements:**
 - Python 3.7+
 - Jupyter Notebook or VS Code
-- matplotlib, numpy, pandas
+- matplotlib, numpy
 
 **Step 1: Download the Repository**
 
