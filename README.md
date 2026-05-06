@@ -127,7 +127,7 @@ Example/                           # Real research figure examples
 
 ## 📞 Support
 
-**Nanoscale Heat Transfer Lab, NCSU**
+**[Nanoscale Heat Transfer Lab](https://junliu.wordpress.ncsu.edu/) - [North Carolina State University](https://www.ncsu.edu/)**
 
 For questions or custom templates, contact the repository owner.
 
