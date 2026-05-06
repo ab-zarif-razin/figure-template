@@ -1,6 +1,17 @@
 # Figure Templates for Publication-Quality Figure Panels
 
-A comprehensive collection of templates for creating publication-quality figures including bar plots, line plots, histograms, and multi-panel figure layouts.
+A collection of templates for creating publication-quality figures including bar plots, line plots, histograms, and multi-panel figure layouts.
+
+---
+
+## � Quick Start: Open in Google Colab
+
+Click any link below to open directly in **Google Colab** - no installation needed!
+
+### Main Resources
+- **📖 [Figure Templates Guide](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/figure_templates.ipynb)** - Complete template library
+- **🎨 [Demo Examples](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/demo_figure_panel.ipynb)** - Working examples with sample data
+- **📊 [Publication Examples](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/Example/example_figure_panel.ipynb)** - Real figure panels from research
 
 ---
 
@@ -16,17 +27,6 @@ This repository provides **ready-to-use templates** for:
 - **Broken Y-axis plots** for data with large value ranges
 
 All templates are designed to meet publication standards with professional styling, proper labeling, and high-quality output.
-
----
-
-## 🚀 Quick Start: Open in Google Colab
-
-Click any link below to open directly in **Google Colab** - no installation needed!
-
-### Main Resources
-- **📖 [Figure Templates Guide](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/figure_templates.ipynb)** - Complete template library
-- **🎨 [Demo Examples](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/demo_figure_panel.ipynb)** - Working examples with sample data
-- **📊 [Publication Examples](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/Example/example_figure_panel.ipynb)** - Real figure panels from research
 
 ---
 
