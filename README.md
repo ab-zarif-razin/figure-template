@@ -8,10 +8,10 @@ A collection of templates for creating publication-quality figures including bar
 
 Click any link below to open directly in **Google Colab** - no installation needed!
 
-### Main Resources
-- **📖 [Figure Templates](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/figure_templates.ipynb)** - Template library with all plot types (line plots, histograms, error bars, dual-axis, shared-axis, broken-axis)
-- **🎨 [Demo Examples](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/demo_figure_panel.ipynb)** - Working examples showing how to combine multiple plots into one figure panel
-- **📊 [Publication Example](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/Example/example_figure_panel.ipynb)** - Real figure panel replicated from a research article
+### Main Resources (Click to Open in Google Colab)
+- **📖 Figure Templates** - [🔵 Open in Colab](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/figure_templates.ipynb) - Template library with all plot types (line plots, histograms, error bars, dual-axis, shared-axis, broken-axis)
+- **🎨 Demo Examples** - [🔵 Open in Colab](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/template/demo_figure_panel.ipynb) - Working examples showing how to combine multiple plots into one figure panel
+- **📊 Publication Example** - [🔵 Open in Colab](https://colab.research.google.com/github/ab-zarif-razin/figure-template/blob/main/Example/example_figure_panel.ipynb) - Real figure panel replicated from a research article
 
 ---
 
